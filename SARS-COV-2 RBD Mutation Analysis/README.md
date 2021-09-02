@@ -1,1 +1,2 @@
 # Mutation-Analysis-of-SARS-CoV-2-Sequences
+ In this project, mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of substitutions in a single-site mutagenesis library. Data was downloaded from [ProtaBank](https://www.protabank.org/).

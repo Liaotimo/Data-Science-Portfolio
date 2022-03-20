@@ -16,4 +16,4 @@ K Means Clustering was used to classify Universities into to two groups in compa
 Mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of substitutions in a single-site mutagenesis library.
 
 - [Developing DNA Matching Algorithms:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/f25d20e078986ffccf345507c0ef93f73853a81e/Naive%20Exact%20Matching%20Algorithm/Naive%20Exact%20Matching%20Algorithm.ipynb)
-I developed a naive matching algorithm that is strand-aware. This algorithm was used to search for pattern sequences across a reference genome.
+A naive matching algorithm was modified to be strand-aware. This algorithm was used to search and analyze a pattern sequences across a reference genome.

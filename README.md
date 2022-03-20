@@ -15,5 +15,5 @@ K Means Clustering was used to classify Universities into to two groups in compa
 - [Mutation-Analysis-of-SARS-CoV-2-Sequences:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/SARS-COV-2%20RBD%20Mutation%20Analysis/SARS-CoV-2%20RBD%20Sequence%20Analysis.ipynb)
 Mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of substitutions in a single-site mutagenesis library.
 
-- [Developing DNA Matching Algorithms:]
+- [Developing DNA Matching Algorithms:](Naive Exact Matching Algorithm/Naive Exact Matching Algorithm.ipynb)
 I developed a naive matching algorithm that is strand-aware. This algorithm was used to search for pattern sequences across a reference genome.

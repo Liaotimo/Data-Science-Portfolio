@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 This portfolio includes some of my projects for self-learning and personal interests.
 
-## Projects
+## Machine Learning Projects
 
 - [Predicting Iris Species:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/Gaspe%20Iris%20Classification%20Project/Iris%20Support%20Vector%20Machines%20Project.ipynb)
 The famous iris flower data set was used to train a model for prediction of iris species based on flower measurements. Ronald Fisher originally collected the majority of these samples in 1936 from the beautiful Gaspé Peninsula in Quebec!
@@ -15,6 +15,7 @@ K Means Clustering was used to classify Universities into to two groups in compa
 - [Mutation-Analysis-of-SARS-CoV-2-Sequences:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/SARS-COV-2%20RBD%20Mutation%20Analysis/SARS-CoV-2%20RBD%20Sequence%20Analysis.ipynb)
 Mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of substitutions in a single-site mutagenesis library.
 
+## Algorithms for Sequence Analysis
 - [Measuring the Benefit of Boyer-Moore's Algorithm for Sequence Alignment](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/Boyer%20Moore%20Alignment/Boyer-Moore's%20Algorithm%20for%20Sequence%20Alignment.ipynb)
 Boyer-Moore algorithms are significantly more efficient compared to naive exact matching; here, the improvement in workload of a Boyer-Moore algorithm was quantified by measuring the number of character comparisons performed and alignments tested.
 

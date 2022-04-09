@@ -23,3 +23,6 @@ Mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of subst
 
 - [Developing DNA Matching Algorithms:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/e858cdce74996cd68eb3269304c03da310521866/Naive%20Exact%20Matching%20Algorithm/Naive%20Exact%20Matching%20Algorithm.ipynb)
 A naive matching algorithm was modified to be strand-aware. This algorithm was used to search and analyze a pattern sequences across a reference genome.
+
+- [Sequence Edit Distance, Assembly, and Overlaps]()
+Dynamic Program can be used to find approximate occurences of a pattern sequence (p) in a reference text (t). Here, an algorithm was developed to calculate minimum edit distances between sample DNA sequences and a genome. In addition, methods were developed to efficiently find overlaps within a set of seuqencing reads.

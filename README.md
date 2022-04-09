@@ -16,7 +16,7 @@ K Means Clustering was used to classify Universities into to two groups in compa
 Mutant SARS-CoV-2 RBD sequences were analyzed to determine the location of substitutions in a single-site mutagenesis library.
 
 - [Measuring the Benefit of Boyer-Moore's Algorithm for Sequence Alignment]()
-Boyer-Moore algorithms are significantly more computationally efficient when compared to naive exact matching; here, the improvement in workload of a Boyer-Moore algorithm was quantified by measuring the number of character comparisons performed and alignments tested.
+Boyer-Moore algorithms are significantly more efficient compared to naive exact matching; here, the improvement in workload of a Boyer-Moore algorithm was quantified by measuring the number of character comparisons performed and alignments tested.
 
 - [Developing DNA Matching Algorithms:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/e858cdce74996cd68eb3269304c03da310521866/Naive%20Exact%20Matching%20Algorithm/Naive%20Exact%20Matching%20Algorithm.ipynb)
 A naive matching algorithm was modified to be strand-aware. This algorithm was used to search and analyze a pattern sequences across a reference genome.

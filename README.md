@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data-Science-Projects
 This portfolio includes some of my projects for self-learning and personal interests.
 
 ## Machine Learning Projects

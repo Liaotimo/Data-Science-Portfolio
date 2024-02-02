@@ -1,0 +1,8 @@
+Following variant calling with FreeBayes and annotation with SnpEff eff, 
+the answers were found in the DnpEff eff summary stats html that was output in Galaxy:
+
+1) number of single nucleotide variants: 1176
+2) number of insertion/deletion variants: 61 each
+3) number of multi-nucleotide variants: 35
+4) number of variants with multiple alternate alleles: 7
+5) names of the 5 genes with the larges number of polymorphic sites:

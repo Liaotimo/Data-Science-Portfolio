@@ -1,0 +1,5 @@
+1) number of single nucleotide variants: 1176
+2) number of insertion/deletion variants: 61 each
+3) number of multi-nucleotide variants: 35
+4) number of variants with multiple alternate alleles: 7
+5) names of the 5 genes with most polymorphisms: RBFOX1, RP11-420N3.2, CACNA1H, PKD1, LMF1

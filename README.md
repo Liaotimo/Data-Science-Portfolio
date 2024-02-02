@@ -17,7 +17,7 @@ The shortest common superstring algorithm was developed and implemented for asse
 - [Sequence Edit Distance and Overlaps](https://github.com/Liaotimo/Data-Science-Portfolio/tree/main/Sequence%20Edit%20Distance%2C%20Assembly%2C%20and%20Overlaps)
 Dynamic Program can be used to find approximate occurences of a pattern sequence (p) in a reference text (t). Here, an algorithm was developed to calculate minimum edit distances between sample DNA sequences and a genome. In addition, methods were developed to efficiently find overlaps within a set of seuqencing reads.
 
-## Machine Learning Projects
+## Machine Learning
 
 - [Predicting Iris Species:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/Gaspe%20Iris%20Classification%20Project/Iris%20Support%20Vector%20Machines%20Project.ipynb)
 The famous iris flower data set was used to train a model for prediction of iris species based on flower measurements. Ronald Fisher originally collected the majority of these samples in 1936 from the beautiful Gaspé Peninsula in Quebec!

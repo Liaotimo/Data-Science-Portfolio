@@ -1,7 +1,7 @@
 # Data-Science-Projects
 This portfolio includes some of my projects for self-learning and personal interests.
 
-## Algorithms for Sequence Analysis
+## Genomics
 - [Measuring the Benefit of Boyer-Moore's Algorithm for Sequence Alignment](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/Boyer%20Moore%20Alignment/Boyer-Moore's%20Algorithm%20for%20Sequence%20Alignment.ipynb)
 Boyer-Moore algorithms are significantly more efficient compared to naive exact matching; here, the improvement in workload of a Boyer-Moore algorithm was quantified by measuring the number of character comparisons performed and alignments tested.
 

@@ -29,4 +29,4 @@ K Means Clustering was used to classify Universities into to two groups in compa
 [LendingClub.com](https://www.lendingclub.com/info/download-data.action) data was used to predict individuals who have a high probability of returning money from a loan. This model would be used to connect money lenders with reliable borrowers.
 
 ## Misc. Genomics Coursework
-- [Bioconductor for Genomic Data Science (Coursera)](https://github.com/Liaotimo/Data-Science-Projects-TL/blob/main/Bioconductor%20For%20Genomic%20Data%20Science.R) 
+- [Bioconductor for Genomic Data Science](https://github.com/Liaotimo/Data-Science-Projects-TL/blob/main/Bioconductor%20For%20Genomic%20Data%20Science.R) 

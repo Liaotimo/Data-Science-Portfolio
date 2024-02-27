@@ -28,3 +28,4 @@ K Means Clustering was used to classify Universities into to two groups in compa
 - [Predicting Money Lending Outcome with Random Forests:](https://github.com/Liaotimo/Data-Science-Portfolio/blob/main/Lending%20Club%20Money%20Loan%20Prediction/Lending%20Club%20Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)
 [LendingClub.com](https://www.lendingclub.com/info/download-data.action) data was used to predict individuals who have a high probability of returning money from a loan. This model would be used to connect money lenders with reliable borrowers.
 
+- [Misc. Genomics Course Projects]()
